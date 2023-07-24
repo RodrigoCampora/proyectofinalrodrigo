@@ -1,0 +1,167 @@
+.angosto {
+width: 500px;
+font-size: 2,5rem;
+margin-top: 25.5rem;
+margin-left: 8rem;
+}
+
+.link {
+    
+    padding: 0.1rem;
+    color: red;
+    transition: 0.8s;
+}
+
+.link:hover {
+    color: black;
+    background-color: red;
+}
+
+.padding-top2 {
+    padding-left: 1rem;
+}
+
+.padding-top {
+    padding-left: 5rem;
+}
+.box-color {
+    background-color: #FFE666;
+    padding:1rem;
+    padding-right: 0.3rem;
+    border-radius: 3%;
+}
+
+.alineacion-derecha {
+    
+    text-decoration: none;
+    margin-top: 1rem;
+    text-align: right;
+    font-size: x-large;
+    
+}
+
+.nashe {
+ width: 1000;
+ height: 100px;
+}
+
+.inline {
+    display: inline;
+   
+}
+
+.top {
+    background-color:#686564;
+}
+
+.alineacion {
+    text-align: end;
+    
+}
+
+.bloque0 {
+    height: 5.5rem;
+}
+
+.bloque1 {
+    background-image:url(../img/top\ retro.jpg);
+    height: 24rem;
+    background-attachment: fixed;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.top-retro {
+    display: inline;
+}
+
+.padding-retro {
+    
+    margin-bottom: 30px;
+    padding-left: 53rem;
+    height: 30rem;
+    width: 30rem;
+}
+
+.caños {
+    height: 25rem;
+    background-image: url(../img/caños.jpg);
+    background-attachment: fixed;
+}
+
+.margin0 {
+    margin-bottom: 2px;
+}
+
+.text0 {
+    padding-top: 11rem;
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+}
+
+.video {
+    padding-top: 2rem;
+    padding-left: 5rem;
+}
+
+.retro-brazo0 {
+    padding-top: 3rem;
+}
+
+.retro-brazo {
+    background-image: url(../img/9c11ef70-455a-43e7-a24d-48a1fd19868d.jpg);
+    background-attachment: fixed;
+    height: 25rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.seccion1 {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 9rem;
+    padding-top: 2rem;
+}
+
+.seccion1-color {
+    background-color: #FFE666; 
+    border-radius: 3%;
+}
+
+.seccion2 {
+    background-color: #FFE666;
+    margin-right: 9rem;
+    padding-top: 3rem;
+    border-radius: 3%;
+}
+
+.bloque-solido {
+    background-color: #686564;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    margin-top: 3rem;
+}
+
+.separador {
+    color: #ffffff;
+    width: 30%;
+    margin-left: 1rem;
+}
+
+.separador-texto {
+    padding-left: 1rem;
+
+}
+
+.imagen-proyecto {
+    width: 8rem;
+    height: 8rem;
+}
+
+.back {
+    background-color: #FFE666;
+}
+
