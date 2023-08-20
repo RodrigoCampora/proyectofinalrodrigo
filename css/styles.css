@@ -5,6 +5,16 @@ margin-top: 25.5rem;
 margin-left: 8rem;
 }
 
+.link:hover {
+    transform: scale(1.1);
+}
+
+.link {
+    padding: 0.3rem;
+    transition: 1s;
+}
+
+
 .link {
     
     padding: 0.1rem;
@@ -12,10 +22,6 @@ margin-left: 8rem;
     transition: 0.8s;
 }
 
-.link:hover {
-    color: black;
-    background-color: red;
-}
 
 .padding-top2 {
     padding-left: 1rem;
@@ -64,6 +70,7 @@ margin-left: 8rem;
 }
 
 .bloque1 {
+    display: flex;
     background-image:url(../img/top\ retro.jpg);
     height: 24rem;
     background-attachment: fixed;
@@ -165,3 +172,20 @@ margin-left: 8rem;
     background-color: #FFE666;
 }
 
+.formulario {
+    background-color: #ffe666b0;
+    margin-left: 5rem;
+    margin-top: 26rem;
+    border-color: rgba(255, 255, 255, 0.453);
+    border-width: 0,1rem;
+    padding: 1rem;
+    border-style: solid;
+    border-radius: 2%;
+    height: 30rem;
+    width: 30rem;
+}
+
+.ubi {
+    margin-top: 28rem;
+    margin-left: 5rem;
+}
